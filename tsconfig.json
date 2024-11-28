@@ -18,5 +18,5 @@
     "lib": ["es2020", "esnext.array", "DOM"]
   },
   "include": ["./lib/**/*.ts"],
-  "exclude": ["node_modules", "src/Tests/*", "src/Binary/GenerateStatics.ts"]
+  "exclude": ["node_modules", "lib/Tests/*", "lib/Binary/GenerateStatics.ts"]
 }
